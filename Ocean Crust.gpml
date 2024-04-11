@@ -1459,11 +1459,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>100</gpml:value>
@@ -1471,13 +1466,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">9.9643492746030624 109.58504452050059 10.157555207011148 107.34144741062055 10.260672772868041 103.98589711049934 9.2219110325514748 100.34774549103449 8.0057794840518373 97.464316957640548 7.6405374503047359 96.627166499695946 7.0679151195040459 97.003320389318759 5.9334698659597356 99.37642008321906 6.7468537753112763 103.90078708619741 8.5684267630159106 104.92587282484072 9.0018847979919308 109.89316333217809 9.4104291200661478 109.98270765429734 9.9643492746030624 109.58504452050059 </gml:posList>
+                                    <gml:posList gml:dimension="2">9.9643492746030624 109.5850445205006 10.157555207011148 107.34144741062055 10.260672772868041 103.98589711049935 9.2219110325514748 100.34774549103449 8.0057794840518373 97.464316957640548 7.6405374503047359 96.627166499695946 7.0679151195040459 97.003320389318759 5.9334698659597356 99.37642008321906 6.7468537753112763 103.90078708619741 8.5684267630159106 104.92587282484072 9.0018847979919308 109.89316333217809 9.4104291200661478 109.98270765429734 9.9643492746030624 109.5850445205006 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1491,7 +1491,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-9c378e1e-7af1-49a4-9330-0717b8240e90</gpml:identity>
-            <gpml:revision>GPlates-f29e862e-fb2b-4f4a-b5fa-17aa3bbd37de</gpml:revision>
+            <gpml:revision>GPlates-42ec9152-9d62-4766-ab60-8e90bc668739</gpml:revision>
             <gml:name>Ocean Crust 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1502,16 +1502,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1519,13 +1514,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-62.499319149247128 48.954863684774324 -58.818642571827297 42.290647630339372 -58.823682043851832 38.349886851831585 -55.289434744416781 33.415511908883545 -52.564607367729323 33.388345408420378 -58.797369108916577 25.75006473501449 -59.98161158190517 27.704838319936151 -61.773785349814787 31.099374080145697 -63.203104104491814 33.470648970071828 -64.694635698166877 36.310656172063602 -67.746338500101984 40.082193655607774 -69.622447153474639 42.667254344683968 -70.272929890829118 41.844593338227341 -66.083216882677988 61.652175572769714 -62.499319149247128 48.954863684774324 </gml:posList>
+                                    <gml:posList gml:dimension="2">-62.499319149247128 48.954863684774324 -58.818642571827297 42.290647630339372 -58.823682043851832 38.349886851831585 -55.289434744416788 33.415511908883545 -52.564607367729323 33.388345408420378 -58.797369108916577 25.750064735014494 -59.98161158190517 27.704838319936151 -61.773785349814787 31.099374080145697 -63.203104104491814 33.470648970071821 -64.694635698166877 36.310656172063595 -67.746338500101984 40.082193655607774 -69.622447153474639 42.667254344683968 -70.272929890829118 41.844593338227341 -66.083216882677988 61.652175572769714 -62.499319149247128 48.954863684774324 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1555,11 +1555,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>100</gpml:value>
@@ -1567,6 +1562,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1587,7 +1587,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-06fa4715-2443-4e27-98bf-eb4d6be5f30d</gpml:identity>
-            <gpml:revision>GPlates-ae4cb1f9-6879-4103-9cfa-a1e72d029f8c</gpml:revision>
+            <gpml:revision>GPlates-5d3bfc13-d278-431d-85ab-c2b73935b0a6</gpml:revision>
             <gml:name>Ocean Crust 950</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1598,16 +1598,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1615,13 +1610,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-71.995602919270922 72.837905597717665 -79.936299558113191 79.279064955976395 -83.991937022651044 136.24678362322916 -87.985893454619927 -142.75108007933812 -86.474997081059513 -123.15351848739814 -81.799763499856212 -51.983930798964806 -84.115458267393592 -32.955063882135931 -84.678378691950229 -6.4373346244714975 -78.392662912402344 31.048017456607305 -72.870645040377113 38.546284449009043 -70.253679634361831 41.969362664944953 -66.06494463835574 61.670109024598503 -71.995602919270922 72.837905597717665 </gml:posList>
+                                    <gml:posList gml:dimension="2">-71.995602919270922 72.837905597717665 -79.936299558113191 79.279064955976395 -83.991937022651044 136.24678362322916 -87.985893454619927 -142.75108007933812 -86.474997081059513 -123.15351848739814 -81.799763499856212 -51.983930798964813 -84.115458267393592 -32.955063882135931 -84.678378691950229 -6.4373346244714975 -78.392662912402344 31.048017456607305 -72.870645040377113 38.546284449009043 -70.253679634361831 41.969362664944946 -66.06494463835574 61.670109024598503 -71.995602919270922 72.837905597717665 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1635,7 +1635,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-be99dc92-d128-4728-8e9f-cf185724477d</gpml:identity>
-            <gpml:revision>GPlates-60e67e86-9b02-4a62-bc77-0aaa58496bc1</gpml:revision>
+            <gpml:revision>GPlates-d833522a-46c0-4092-9f6b-f7e51271a052</gpml:revision>
             <gml:name>Ocean Crust 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1646,16 +1646,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1663,13 +1658,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-46.081002695162674 58.518864183506047 -43.290610049858962 52.82349827017466 -43.840433476569864 50.112288495281533 -41.225335160252556 45.249127331988959 -38.620960499351398 44.203920642740776 -38.417483899806037 43.770227327903264 -52.375761763505018 33.255939535710468 -52.55625593465485 33.487216040540822 -55.310346760628263 33.399504784102461 -58.894504687225073 38.422429131085657 -58.854750711694422 42.373759506029188 -62.473699913406556 49.11131506299207 -46.081002695162674 58.518864183506047 </gml:posList>
+                                    <gml:posList gml:dimension="2">-46.081002695162674 58.518864183506047 -43.290610049858969 52.82349827017466 -43.840433476569864 50.11228849528154 -41.225335160252556 45.249127331988959 -38.620960499351398 44.203920642740776 -38.417483899806037 43.770227327903264 -52.375761763505018 33.255939535710468 -52.55625593465485 33.487216040540822 -55.310346760628263 33.399504784102461 -58.894504687225073 38.422429131085657 -58.854750711694422 42.373759506029188 -62.473699913406556 49.11131506299207 -46.081002695162674 58.518864183506047 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1683,7 +1683,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-fbb18910-8301-461f-98d9-2b7fef84008e</gpml:identity>
-            <gpml:revision>GPlates-d186ce8b-3e06-4272-8145-a9bbdbc9e5d5</gpml:revision>
+            <gpml:revision>GPlates-fb4ef823-4b32-42a4-a479-2a309738a626</gpml:revision>
             <gml:name>Ocean Crust 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1694,16 +1694,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1711,6 +1706,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1731,7 +1731,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-91d4cd0c-b734-42f7-b988-f1b9cbdf0f2b</gpml:identity>
-            <gpml:revision>GPlates-d1099bb0-66c4-4ab7-aea6-b7c345effdc2</gpml:revision>
+            <gpml:revision>GPlates-db75c01e-0022-43dd-9925-7a7912637191</gpml:revision>
             <gml:name>Ocean Crust 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1742,16 +1742,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1759,6 +1754,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1779,7 +1779,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-3ed40e33-6cb4-4853-8e55-064d70040841</gpml:identity>
-            <gpml:revision>GPlates-c843c16d-f4be-4152-813b-b132ee42ad78</gpml:revision>
+            <gpml:revision>GPlates-c1cc76c8-9df5-4ec0-a48f-ba0f9253ee40</gpml:revision>
             <gml:name>Ocean Crust 900</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1790,16 +1790,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1807,13 +1802,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-59.252091509029334 96.207558105728864 -65.738347177158914 106.7233111853584 -68.157002067769724 127.49078509424791 -74.080452143510186 131.01106720431193 -75.136477076898757 135.93680391506706 -86.509975536648042 -122.86702340642074 -87.985419398059676 -143.38868197048893 -83.959882616032289 136.28745343050343 -79.892042771847926 79.517491803644148 -71.940685963601751 72.823853243557991 -59.252091509029334 96.207558105728864 </gml:posList>
+                                    <gml:posList gml:dimension="2">-59.252091509029334 96.207558105728879 -65.738347177158914 106.7233111853584 -68.157002067769724 127.49078509424791 -74.080452143510186 131.01106720431193 -75.136477076898757 135.93680391506706 -86.509975536648042 -122.86702340642074 -87.985419398059676 -143.38868197048893 -83.959882616032289 136.28745343050343 -79.892042771847926 79.517491803644148 -71.940685963601751 72.823853243557991 -59.252091509029334 96.207558105728879 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1827,7 +1827,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-652ebbb7-3b37-4ffd-a338-8145ee2d0b41</gpml:identity>
-            <gpml:revision>GPlates-dd40ee3c-329c-41d7-9d62-2d96600502e1</gpml:revision>
+            <gpml:revision>GPlates-f784ecf4-7191-4a1c-baf7-5590e878d5bb</gpml:revision>
             <gml:name>Ocean Crust 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1838,16 +1838,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1855,13 +1850,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-29.089531035729653 72.289064389851731 -27.652374421374219 66.945828761416934 -28.805262890513475 65.035730997281789 -27.55691834265733 60.207180147899983 -25.389182458702837 58.362556438328028 -38.577744414362854 44.339637070310637 -41.183081917736686 45.252277105413256 -43.833097198267815 50.202898410856726 -43.292364475385973 52.919374742538231 -46.056518514692215 58.555956650246095 -29.089531035729653 72.289064389851731 </gml:posList>
+                                    <gml:posList gml:dimension="2">-29.089531035729653 72.289064389851731 -27.652374421374219 66.945828761416934 -28.805262890513475 65.035730997281789 -27.55691834265733 60.207180147899983 -25.389182458702837 58.362556438328028 -38.577744414362854 44.339637070310637 -41.183081917736693 45.252277105413263 -43.833097198267815 50.202898410856726 -43.292364475385973 52.919374742538231 -46.056518514692215 58.555956650246095 -29.089531035729653 72.289064389851731 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1875,7 +1875,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-52b335cb-4c30-4942-8708-5a8d3a563194</gpml:identity>
-            <gpml:revision>GPlates-63ea0d6d-10cc-464a-97d5-0d10564ca906</gpml:revision>
+            <gpml:revision>GPlates-e85fca0f-490b-4594-9ee2-4f0a729ae172</gpml:revision>
             <gml:name>Ocean Crust 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1886,16 +1886,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1903,13 +1898,18 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-27.045623864979156 88.431222371432852 -29.856438970127847 79.902402401737774 -29.076942573697664 72.306433409498027 -45.983962312462772 58.808973128232985 -48.520373769786126 67.614575043947696 -47.366726687416758 79.366512090078345 -19.532423544121194 103.12518686316889 -27.045623864979156 88.431222371432852 </gml:posList>
+                                    <gml:posList gml:dimension="2">-27.045623864979156 88.431222371432852 -29.856438970127847 79.902402401737788 -29.076942573697664 72.306433409498027 -45.983962312462772 58.808973128232985 -48.520373769786126 67.614575043947696 -47.366726687416758 79.366512090078345 -19.532423544121194 103.12518686316889 -27.045623864979156 88.431222371432852 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1923,7 +1923,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-fc3ba331-9fdb-4a38-b134-935f76adb3ab</gpml:identity>
-            <gpml:revision>GPlates-58ee0f65-0151-4c32-b9a9-9f5fa4d581e5</gpml:revision>
+            <gpml:revision>GPlates-2cb27c2e-d0a6-4096-aec4-e0c739b0987e</gpml:revision>
             <gml:name>Ocean Crust 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1934,16 +1934,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1951,6 +1946,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
@@ -1971,7 +1971,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-f082da99-e53d-4d22-939d-49d796990ea6</gpml:identity>
-            <gpml:revision>GPlates-a2ce8b97-febe-4ee0-a2b0-3fb1a6668557</gpml:revision>
+            <gpml:revision>GPlates-6de2118e-2a61-4160-abfd-3bcb03e18d67</gpml:revision>
             <gml:name>Ocean Crust 850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1982,16 +1982,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
@@ -1999,6 +1994,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">800</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
