@@ -195,7 +195,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-12aad741-9f9e-48cc-8cfd-dcb4a93e34ae</gpml:identity>
-            <gpml:revision>GPlates-8bf8743e-2aff-4a75-97ec-ec1d8b349f54</gpml:revision>
+            <gpml:revision>GPlates-3ea6ab3e-fda7-4da7-8317-41cde1e88451</gpml:revision>
             <gml:name>Failed Rift 1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -206,7 +206,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -422,6 +422,54 @@
                             <gml:baseCurve>
                                 <gml:LineString>
                                     <gml:posList gml:dimension="2">-34.427171046640574 86.18089840989775 -36.562786269230777 87.581616128491532 -36.579583788300404 91.004867488441505 -40.209553740654016 90.960768815473671 -40.953187373982317 98.042890904675687 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:ContinentalRift>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalRift>
+            <gpml:identity>GPlates-055ffc35-cd0b-47d8-b0a2-b401cedbd5ec</gpml:identity>
+            <gpml:revision>GPlates-3a6bad06-11da-4a72-937f-28cdd0c719e5</gpml:revision>
+            <gml:name>Failed Rift 1000</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1000</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1000</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-36.357795938389962 129.03730615570706 -36.318966742436295 128.65289717039855 -35.423104359383629 126.91374793520421 -35.666333605422103 125.91979730666429 -34.867690770248473 125.07680037631648 -33.477267152474134 125.90887720729616 -33.014075505375544 124.73859168064331 -32.973751825858756 123.11513262752544 -31.934837892698898 123.00772837584073 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
