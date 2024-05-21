@@ -48,4 +48,52 @@
             </gpml:outlineOf>
         </gpml:ContinentalCrust>
     </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalCrust>
+            <gpml:identity>GPlates-03ded037-7f3b-40f7-89b6-3b1f5742ea7e</gpml:identity>
+            <gpml:revision>GPlates-48624dcb-1dd7-4dbe-9f0e-d3a49433ef96</gpml:revision>
+            <gml:name>Accreted Terrain 600</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">600</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">599.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>200</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">41.89760965859341 98.467930679837949 42.932460636264963 100.26366233821281 42.731445399114413 101.64396121594764 42.520190652639812 104.60278656112841 42.838791308800239 108.16800551019884 42.310414819125889 111.12882144543028 42.331992712435877 114.3238576576757 42.378814863062523 116.10709383638992 43.280456551093849 118.54917901316156 45.033755905494409 121.8598161297295 45.113670313191371 125.27730803971761 45.187936396409299 127.15992258224733 45.420788633056915 128.95342733844743 44.957848968135949 130.26987819058238 45.196449474196335 131.97373341822009 45.465162200510846 133.59836059641975 45.422292177972075 135.39653018182091 44.964197444519911 136.14870879992731 44.747854342720593 137.59179734953079 44.806718568293022 137.90483807810799 44.298376665391409 137.81402490990797 44.198017871824597 121.73027045180228 41.500325366365992 115.89763095966462 42.300569568836011 103.9580252478129 41.89760965859341 98.467930679837949 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:ContinentalCrust>
+    </gml:featureMember>
 </gpml:FeatureCollection>
