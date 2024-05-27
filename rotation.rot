@@ -136,7 +136,7 @@
 700  0.0   90.0    0.0    0.0  200 ! Craton G end
 700  1.0   38.7265  115.01  183.346  600 ! Drift Correction
 700 500.0   38.7265  115.01  183.346  600 ! Starts following F
-700 500.0   45.2974   67.233   96.1825  200 ! Stops following B
+700 500.0   90.0    0.0    0.0  200 ! Stops following B
 700 1000.0   90.0    0.0    0.0  200 ! Craton G start (Follows B)
 800  0.0   90.0    0.0    0.0  200 ! Craton H end
 800 1000.0   90.0    0.0    0.0  200 ! Craton H start (Follows B)
@@ -144,7 +144,7 @@
 900  1.0  -13.3645  169.616  111.538  200 ! Drift Correction
 900 490.0  -13.3935  169.5614  111.4068  200 !
 900 500.0  -13.3645  169.616  111.538  200 ! Starts following B
-900 500.0   44.8833 -178.878  110.899  400 ! Stops Following D
+900 500.0   90.0 0.0 0.0  400 ! Stops Following D
 900 850.0   90.0    0.0    0.0  400 ! Starts Following D
 900 850.0   90.0    0.0    0.0  200 ! Stops Following B
 900 1000.0   90.0    0.0    0.0  200 ! Craton I start (Follows B)
