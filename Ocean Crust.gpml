@@ -23472,4 +23472,52 @@
             </gpml:outlineOf>
         </gpml:OceanicCrust>
     </gml:featureMember>
+    <gml:featureMember>
+        <gpml:OceanicCrust>
+            <gpml:identity>GPlates-4044c252-99b7-47f0-9122-79b4cdd8d1fa</gpml:identity>
+            <gpml:revision>GPlates-50f38ac7-9410-4e70-b729-d2dd6a58804c</gpml:revision>
+            <gml:name>Ocean Crust 350</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">350</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">349.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>700</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">-12.261498016219306 146.73883733196544 -11.652233683709294 143.06875018110938 -13.528417882074235 142.1615125010033 -13.003969825483125 139.52482992892496 -15.00602636609478 137.44481719205174 -12.307631356672415 135.21750280130078 -11.976331776839075 132.07653923756709 -10.212390328291121 130.36011333615133 -11.762571288496311 127.96644121746368 -9.1042037061363548 124.51174098904266 -10.848647734443729 121.50393627135161 -7.8563380316670246 120.08340017520227 -7.2949503947466106 116.9845382563864 -3.9321368701064787 116.15731651570503 -4.0970518610844646 112.50042469986641 -1.7893708130572106 111.75105093597398 -1.7289785660223356 108.56262847492947 0.21638910145378987 106.88262475370854 0.73050330939696728 106.03692911043881 1.5905495544958244 106.77181774732379 1.3092041905257834 107.7012056292522 -0.19119409292051007 109.80929275717139 0.49684632653768607 112.93480583696106 -1.560798407442662 114.20349808897952 -0.53526290654490649 117.70783969621719 -3.6046899376358281 119.30548148761723 -3.4357318696045325 122.42123935282896 -6.021959832620154 124.49029084946905 -3.6618338015284864 126.98529735968602 -5.4937946419035111 130.87768015359666 -3.4685762408252296 132.85332640767948 -4.832787764673796 134.8631769035309 -4.5231143758379817 137.92432675683341 -6.7294554938069764 140.61992423568211 -4.3786203455890309 142.22450483347666 -4.4079447765072226 144.84785851929192 -2.379861486766949 145.4123617219731 -2.359581957973758 148.99824300223565 -4.8351720594415406 150.88510978321887 -15.025305672600238 148.30874509266937 -12.261498016219306 146.73883733196544 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:OceanicCrust>
+    </gml:featureMember>
 </gpml:FeatureCollection>
