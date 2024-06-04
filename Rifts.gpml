@@ -816,4 +816,100 @@
             </gpml:centerLineOf>
         </gpml:ContinentalRift>
     </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalRift>
+            <gpml:identity>GPlates-b768ce16-54d2-4ea2-bb65-efa81008fb8d</gpml:identity>
+            <gpml:revision>GPlates-f73e1898-f3d1-46b7-895f-f7cde563434d</gpml:revision>
+            <gml:name>Rift 350</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">350</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">349.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">77.445806717647258 162.08924639103063 74.159583487904285 169.73157041284384 64.710090823570596 179.54531909554092 61.952289545212345 -176.50456893711745 57.002280129348492 -175.26130753989003 55.212610031769962 -176.59622692221936 54.106271416877256 179.33607228009205 52.02150630725744 -179.6557123050973 50.843365640341432 -176.63500824893168 48.670127973363677 -179.06599538738581 45.759032014648021 -177.51917580535687 42.848279186829487 -177.68300063929746 40.539023218522864 -176.21317309915631 36.732591170768636 -178.65229894279258 31.771814584875933 177.82049720402338 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:ContinentalRift>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalRift>
+            <gpml:identity>GPlates-715d9e0d-3df6-495d-bf8f-c9227972af77</gpml:identity>
+            <gpml:revision>GPlates-6eb05311-cea9-4d12-8254-f1c40fa0813c</gpml:revision>
+            <gml:name>Rift 350</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">350</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">349.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:OrientableCurve gml:orientation="+">
+                            <gml:baseCurve>
+                                <gml:LineString>
+                                    <gml:posList gml:dimension="2">-70.547228915367512 177.32595429682092 -66.815553050863414 -171.92838965380986 -61.925169352718498 -159.30902835024651 -60.735804800262187 -157.78553530542172 -59.685606882897638 -159.62772583895867 -58.514114360966822 -156.50136409945154 -57.498264873516419 -157.12301188230006 -56.323313320941281 -155.05370183142088 -55.927610108451177 -149.16964311400943 -52.549333770740965 -148.50198106849433 -51.341201124553308 -142.08947462838017 -46.20646753850481 -142.33967075930823 -43.774604479543484 -142.15468758901994 -20.834064093515149 -145.68810516779675 </gml:posList>
+                                </gml:LineString>
+                            </gml:baseCurve>
+                        </gml:OrientableCurve>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:ContinentalRift>
+    </gml:featureMember>
 </gpml:FeatureCollection>

@@ -243,7 +243,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-f4ab78ba-ee9e-4509-b8b6-1e5913a9adca</gpml:identity>
-            <gpml:revision>GPlates-2dc00d06-1471-4f12-924e-3d10db8f9e56</gpml:revision>
+            <gpml:revision>GPlates-e8f30ef4-d29f-4a13-b3e4-79b3741655b1</gpml:revision>
             <gml:name>Failed Rift 1000</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -254,7 +254,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">350</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -517,7 +517,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">79.331243012430477 -3.1576630624279263 76.75991342681634 -5.2858919953909176 76.381591609437038 -17.414162804587615 73.957762185122974 -19.22414171635468 </gml:posList>
+                                    <gml:posList gml:dimension="2">79.331243012430477 -3.1576630624279263 76.75991342681634 -5.2858919953909167 76.381591609437038 -17.414162804587615 73.957762185122974 -19.22414171635468 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
@@ -579,7 +579,7 @@
     <gml:featureMember>
         <gpml:ContinentalRift>
             <gpml:identity>GPlates-3efc9b8f-0ea1-49b2-a78f-a12bf6169e39</gpml:identity>
-            <gpml:revision>GPlates-d2e944b7-dd95-407e-bb13-af65a3c04253</gpml:revision>
+            <gpml:revision>GPlates-b12e1515-65e5-46be-b6d8-61aa734a6c68</gpml:revision>
             <gml:name>Falied Rift 500</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -590,7 +590,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">350</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -931,11 +931,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">499.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>600</gpml:value>
@@ -943,6 +938,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">499.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:centerLineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
