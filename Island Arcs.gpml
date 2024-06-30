@@ -2931,7 +2931,7 @@
     <gml:featureMember>
         <gpml:IslandArc>
             <gpml:identity>GPlates-49242d78-6fab-4611-9a5a-e82fc605f1b7</gpml:identity>
-            <gpml:revision>GPlates-1a65eacf-a033-4353-a397-98fe18f329f2</gpml:revision>
+            <gpml:revision>GPlates-7b5e981f-b0d5-4022-9c51-d4055848a0f2</gpml:revision>
             <gml:name>Island Arc 400</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -2942,7 +2942,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">200</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
