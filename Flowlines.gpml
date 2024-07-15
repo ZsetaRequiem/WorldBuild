@@ -3,7 +3,7 @@
     <gml:featureMember>
         <gpml:Flowline>
             <gpml:identity>GPlates-ef54635a-f26f-4dca-be21-ff9222e50878</gpml:identity>
-            <gpml:revision>GPlates-eafe977e-1f51-4892-a24e-34b5064c685f</gpml:revision>
+            <gpml:revision>GPlates-3bc453d3-a404-4ea7-b136-94fbbb54edc8</gpml:revision>
             <gml:name>Flowlines 200</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -19,9 +19,101 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>600</gpml:leftPlate>
-            <gpml:rightPlate>500</gpml:rightPlate>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-20.040725237030685 -64.869840305099999</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-35.093055557162941 -62.522855894841207</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-39.832391024407521 -61.154525481477854</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-31.246647323041906 71.195436996936692</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-23.1002755838993 70.224802004673961</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-21.591146353576825 68.001385339379254</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-17.621360066339403 69.522176949699315</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-15.436017853602007 68.361583242271607</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-8.8434197080152703 70.551740814155167</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-5.9194837161272451 68.113483945138697</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>0.89702909240967321 69.192212811719514</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>2.5657056504038578 70.955405369589556</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>8.1635174166498583 75.501230381762241</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>13.459769305489388 76.814536232757874</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>14.848883535387056 76.439446359773243</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>21.16405881137662 78.968404074452664</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>22.437902287464436 79.065026923565952</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -307,106 +399,9 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-20.04072523703141 -64.869840305100055</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-24.799696568595639 -64.460933566111123</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-35.093055557164284 -62.522855894841285</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-39.832391024409119 -61.154525481477918</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-31.246647323042978 71.195436996936678</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-23.100275583900039 70.224802004673947</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-21.5911463535775 68.001385339379254</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-17.621360066339932 69.522176949699315</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-15.436017853602451 68.361583242271593</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-8.8434197080154853 70.551740814155153</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-5.9194837161273579 68.113483945138682</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>0.89702909240978368 69.1922128117195</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>2.5657056504040225 70.955405369589528</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>8.1635174166502029 75.501230381762213</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>13.459769305489921 76.814536232757845</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>14.848883535387639 76.4394463597732</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>21.164058811377426 78.968404074452621</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>22.437902287465288 79.06502692356591</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>600</gpml:leftPlate>
+            <gpml:rightPlate>500</gpml:rightPlate>
         </gpml:Flowline>
     </gml:featureMember>
     <gml:featureMember>
@@ -428,9 +423,36 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
-            <gpml:leftPlate>102</gpml:leftPlate>
-            <gpml:rightPlate>103</gpml:rightPlate>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>0.89654730079767764 113.21724960582152</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-11.73166085265027 118.06039184777174</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-29.158972617877254 121.37685878243319</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>14.894681146962332 108.68305233221945</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -688,36 +710,9 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>0.89654730079767764 113.21724960582152</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-11.73166085265027 118.06039184777174</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-29.158972617877254 121.37685878243319</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>14.894681146962332 108.68305233221945</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:reconstructionMethod>HalfStageRotationVersion3</gpml:reconstructionMethod>
+            <gpml:leftPlate>102</gpml:leftPlate>
+            <gpml:rightPlate>103</gpml:rightPlate>
         </gpml:Flowline>
     </gml:featureMember>
 </gpml:FeatureCollection>
