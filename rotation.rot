@@ -238,6 +238,8 @@
 901 150.0 90.0 0.0 0.0 000 ! Starts moving independently
 901 150.0 7.22934 -33.1359 74.2522 900 ! Stops Following I
 901 1000.0 7.22934 -33.1359 74.2522 900 ! Ocean I1 Start
+910 0.0 90.0 0.0 0.0 000 ! Ocean I2 End
+910 1000.0 90.0 0.0 0.0 000 ! Ocean I2 Start
 1000  0.0   90.0    0.0    0.0  300 ! Craton J end
 1000 850.0   90.0    0.0    0.0  300 ! Starts Following C
 1000 850.0   90.0    0.0    0.0  100 ! Stops Following A
