@@ -960,4 +960,52 @@
             </gpml:centerLineOf>
         </gpml:OrogenicBelt>
     </gml:featureMember>
+    <gml:featureMember>
+        <gpml:OrogenicBelt>
+            <gpml:identity>GPlates-c881c7f2-ba30-4f40-acd5-046ed0239eea</gpml:identity>
+            <gpml:revision>GPlates-98ec19e7-1a22-40f4-adbd-e0e3fceed34f</gpml:revision>
+            <gml:name>Uralic 500</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">49.990000000000002</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>600</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">29.128589379490187 101.5099274510314 30.240834218715257 100.85519182966374 32.191495667275703 98.001936174187847 34.631694690696868 96.465539294393125 35.238641179725192 94.422191108020414 37.576674898996856 92.053243425692372 38.418486994439945 89.544391753394478 37.262879648623986 87.604498981044316 36.134795521233116 84.110627387428565 35.564409043438225 79.89950661852086 34.082869592114378 81.846191614422338 33.682766941495572 88.414082106815542 30.926025667742348 91.569463355692065 28.536395420930319 94.371700788303684 26.785865839256637 96.504442624381269 27.384467680302361 100.16806714912848 27.285144049985831 101.29394768725166 29.128589379490187 101.5099274510314 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:OrogenicBelt>
+    </gml:featureMember>
 </gpml:FeatureCollection>
