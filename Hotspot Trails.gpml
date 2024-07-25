@@ -19,11 +19,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">249.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -31,7 +26,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>601</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">249.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>7.0202314931936085 -71.155540828430219</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -387,17 +397,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>7.0202314931936085 -71.155540828430219</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>601</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -419,11 +419,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">239.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -431,7 +426,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>901</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">239.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>29.710031627419038 -110.50184534706865</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -773,17 +783,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>29.710031627419038 -110.50184534706865</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>901</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -805,11 +805,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -817,7 +812,36 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>901</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-40.97399749971138 -159.2443352229933</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-41.283344278197461 -160.11400173260637</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-40.470006799658719 -160.72466275083525</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -1145,31 +1169,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-40.97399749971138 -159.2443352229933</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-41.283344278197461 -160.11400173260637</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-40.470006799658719 -160.72466275083525</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>901</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -1191,11 +1191,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">219.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -1203,7 +1198,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>610</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">219.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>3.5408180733165606 106.94254938683319</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -1517,17 +1527,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>3.5408180733165606 106.94254938683319</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>610</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -1549,11 +1549,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">209.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -1561,7 +1556,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>103</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">209.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-6.9008069992033372 141.04075608757731</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -1861,17 +1871,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>-6.9008069992033372 141.04075608757731</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>103</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -1893,11 +1893,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">199.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -1905,7 +1900,36 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>600</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">199.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>14.5296286596057 57.781608839828408</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>13.597960844666302 57.241365437057681</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>12.912122903959265 57.901304354280526</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -2191,31 +2215,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>14.5296286596057 57.781608839828408</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>13.597960844666302 57.241365437057688</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>12.912122903959265 57.901304354280526</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>600</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -2237,11 +2237,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">189.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -2249,7 +2244,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>901</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">189.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>83.802627039473919 53.870200008213928</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -2521,17 +2531,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>83.802627039473919 53.870200008213928</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>901</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -2553,11 +2553,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">179.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -2565,7 +2560,36 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>300</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">179.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-51.849378403731222 132.74807447544433</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-52.565426324235034 131.79581111005987</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-52.182962320121057 134.63714859682631</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -2823,31 +2847,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-51.849378403731222 132.74807447544433</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-52.565426324235034 131.79581111005987</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-52.182962320121057 134.63714859682628</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>300</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -2869,11 +2869,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">169.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -2881,7 +2876,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>200</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">169.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>26.599952216329871 113.33911883599568</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -3125,17 +3135,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>26.599952216329871 113.33911883599568</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>200</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -3157,11 +3157,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">159.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -3169,7 +3164,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>601</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">159.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>30.290347645701043 -10.477313132692942</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -3399,17 +3409,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>30.290347645701043 -10.477313132692942</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>601</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -3431,11 +3431,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -3443,7 +3438,31 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>900</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>18.754562068372078 158.67695594691432</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>19.044641214833216 158.97236613104218</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -3659,26 +3678,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>18.754562068372078 158.67695594691429</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>19.044641214833216 158.97236613104218</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>900</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -3700,11 +3700,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -3712,7 +3707,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>200</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">149.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>19.179389284460363 158.18524007337405</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -3928,17 +3938,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>19.179389284460363 158.18524007337405</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>200</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -3960,11 +3960,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">139.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -3972,7 +3967,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>510</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">139.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-61.202066515576448 7.264908694696496</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -4174,17 +4184,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>-61.202066515576448 7.264908694696496</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>510</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -4206,11 +4206,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">129.99000000000001</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -4218,7 +4213,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>910</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">129.99000000000001</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>3.0771883289721207 -85.578326217867172</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -4406,17 +4416,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>3.0771883289721207 -85.578326217867172</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>910</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -4438,11 +4438,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">119.98999999999999</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -4450,7 +4445,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>500</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">119.98999999999999</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-18.386040307074101 70.306599796642345</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -4624,17 +4634,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>-18.386040307074101 70.306599796642345</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>500</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -4656,11 +4656,6 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">109.98999999999999</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1</gpml:value>
@@ -4668,7 +4663,22 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
-            <gpml:relativePlate>510</gpml:relativePlate>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">109.98999999999999</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-36.288487340696719 -6.6275481219409125</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
             <gpml:times>
                 <gpml:Array>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
@@ -4828,17 +4838,7 @@
                     </gpml:member>
                 </gpml:Array>
             </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Point>
-                            <gml:pos>-36.288487340696719 -6.6275481219409125</gml:pos>
-                        </gml:Point>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
+            <gpml:relativePlate>510</gpml:relativePlate>
         </gpml:MotionPath>
     </gml:featureMember>
     <gml:featureMember>
@@ -4860,9 +4860,694 @@
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
             <gpml:geometryImportTime>
                 <gml:TimeInstant>
                     <gml:timePosition gml:frame="http://gplates.org/TRS/flat">99.989999999999995</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>6.7073215924422129 -138.6375517524493</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
+            <gpml:times>
+                <gpml:Array>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">100</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                </gpml:Array>
+            </gpml:times>
+            <gpml:relativePlate>901</gpml:relativePlate>
+        </gpml:MotionPath>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MotionPath>
+            <gpml:identity>GPlates-59195d49-dcbc-481f-9afc-9fdf1b56073f</gpml:identity>
+            <gpml:revision>GPlates-da2fad87-3395-4419-8a5b-feac5c53ea8f</gpml:revision>
+            <gml:name>Hotspot Trail 90</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">89.989999999999995</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:MultiPoint>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-10.301235376215853 52.582507975502885</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                            <gml:pointMember>
+                                <gml:Point>
+                                    <gml:pos>-12.208153029570534 52.261218905876227</gml:pos>
+                                </gml:Point>
+                            </gml:pointMember>
+                        </gml:MultiPoint>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
+            <gpml:times>
+                <gpml:Array>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                </gpml:Array>
+            </gpml:times>
+            <gpml:relativePlate>500</gpml:relativePlate>
+        </gpml:MotionPath>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MotionPath>
+            <gpml:identity>GPlates-2ca5480c-ddcd-455e-a28a-f8fed26e6886</gpml:identity>
+            <gpml:revision>GPlates-fc8f500a-0214-4f26-a134-f260c8fe151c</gpml:revision>
+            <gml:name>Hotspot Trails 80</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">79.989999999999995</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:relativePlate>700</gpml:relativePlate>
+            <gpml:times>
+                <gpml:Array>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                </gpml:Array>
+            </gpml:times>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>60.916732775176015 52.350443831204743</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
+        </gpml:MotionPath>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MotionPath>
+            <gpml:identity>GPlates-1c85ca3f-5833-4b27-b6ae-6937dcddb6e8</gpml:identity>
+            <gpml:revision>GPlates-5fde2139-5d7d-4ecd-bc7a-fa96da1d9588</gpml:revision>
+            <gml:name>Hotspot Trails 70</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">69.989999999999995</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:relativePlate>600</gpml:relativePlate>
+            <gpml:times>
+                <gpml:Array>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                    <gpml:member>
+                        <gml:TimePeriod>
+                            <gml:begin>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:begin>
+                            <gml:end>
+                                <gml:TimeInstant>
+                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                                </gml:TimeInstant>
+                            </gml:end>
+                        </gml:TimePeriod>
+                    </gpml:member>
+                </gpml:Array>
+            </gpml:times>
+            <gpml:seedPoints>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>-4.6905793484805365 40.02957309745441</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:seedPoints>
+        </gpml:MotionPath>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MotionPath>
+            <gpml:identity>GPlates-59305cc4-08cd-41ad-91ef-5cd9e65fb8c4</gpml:identity>
+            <gpml:revision>GPlates-5cb7d620-35d0-41d9-ac5c-7dede02dbeaf</gpml:revision>
+            <gml:name>Hotspot Trails 60</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">59.990000000000002</gml:timePosition>
                 </gml:TimeInstant>
             </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
@@ -4960,258 +5645,17 @@
                             </gml:end>
                         </gml:TimePeriod>
                     </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">100</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
                 </gpml:Array>
             </gpml:times>
             <gpml:seedPoints>
                 <gpml:ConstantValue>
                     <gpml:value>
                         <gml:Point>
-                            <gml:pos>6.7073215924422129 -138.6375517524493</gml:pos>
+                            <gml:pos>46.615510746392118 -118.88581463645146</gml:pos>
                         </gml:Point>
                     </gpml:value>
                     <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:seedPoints>
-        </gpml:MotionPath>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:MotionPath>
-            <gpml:identity>GPlates-59195d49-dcbc-481f-9afc-9fdf1b56073f</gpml:identity>
-            <gpml:revision>GPlates-da2fad87-3395-4419-8a5b-feac5c53ea8f</gpml:revision>
-            <gml:name>Hotspot Trail 90</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">89.989999999999995</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
-            <gpml:reconstructionPlateId>
-                <gpml:ConstantValue>
-                    <gpml:value>1</gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:reconstructionPlateId>
-            <gpml:relativePlate>500</gpml:relativePlate>
-            <gpml:times>
-                <gpml:Array>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:TimePeriod</gpml:valueType>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">0</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">10</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">20</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">30</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">40</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">60</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">70</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                    <gpml:member>
-                        <gml:TimePeriod>
-                            <gml:begin>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">90</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:begin>
-                            <gml:end>
-                                <gml:TimeInstant>
-                                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">80</gml:timePosition>
-                                </gml:TimeInstant>
-                            </gml:end>
-                        </gml:TimePeriod>
-                    </gpml:member>
-                </gpml:Array>
-            </gpml:times>
-            <gpml:seedPoints>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:MultiPoint>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-10.301235376215853 52.582507975502878</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                            <gml:pointMember>
-                                <gml:Point>
-                                    <gml:pos>-12.208153029570534 52.261218905876234</gml:pos>
-                                </gml:Point>
-                            </gml:pointMember>
-                        </gml:MultiPoint>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:MultiPoint</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:seedPoints>
         </gpml:MotionPath>
