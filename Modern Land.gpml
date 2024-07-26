@@ -1538,56 +1538,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:ContinentalCrust>
-            <gpml:identity>GPlates-bfcfa385-07f1-4752-b0d5-f36c6f6170e3</gpml:identity>
-            <gpml:revision>GPlates-22bb8881-995a-4249-8a44-281b29b83fd7</gpml:revision>
-            <gml:name>Hotspot Island</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionPlateId>
-                <gpml:ConstantValue>
-                    <gpml:value>50</gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:reconstructionPlateId>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">49.990000000000002</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
-            <gpml:outlineOf>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Polygon>
-                            <gml:exterior>
-                                <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-18.438065033977992 70.117133276274075 -18.578877695772722 70.187216926622995 -18.642369196799933 70.592994853271364 -18.356010377348362 70.561509868662071 -18.212987107637794 70.439751761008978 -18.18340079757289 70.33284721366681 -18.173573262843899 70.230081869396955 -18.2148681142295 70.171057672779185 -18.280195566595449 70.099768978442512 -18.438065033977992 70.117133276274075 </gml:posList>
-                                </gml:LinearRing>
-                            </gml:exterior>
-                        </gml:Polygon>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:outlineOf>
-        </gpml:ContinentalCrust>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:ContinentalCrust>
             <gpml:identity>GPlates-181a3871-d30e-473c-8767-c755f75eccb0</gpml:identity>
-            <gpml:revision>GPlates-9455f535-d464-45c4-a3ee-b559dfb04d89</gpml:revision>
+            <gpml:revision>GPlates-bc10199f-8aaa-4422-a51e-da640e8ce6dc</gpml:revision>
             <gml:name>Hotspot Island</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1621,55 +1573,7 @@
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-20.915241804428966 72.305838087289942 -20.913945820652661 72.405609837997318 -20.82637696071696 72.42494302860888 -20.737684358755409 72.412847254867032 -20.685891064366281 72.336365678448701 -20.675147387568774 72.310611385631759 -20.681673852812818 72.221253602058439 -20.724183499587035 72.177521161696333 -20.892002721107794 72.207103167844821 -20.951143129732284 72.215092574258321 -20.915241804428966 72.305838087289942 </gml:posList>
-                                </gml:LinearRing>
-                            </gml:exterior>
-                        </gml:Polygon>
-                    </gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:outlineOf>
-        </gpml:ContinentalCrust>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:ContinentalCrust>
-            <gpml:identity>GPlates-23e0c4e9-096c-461c-8f7f-e53722b9ea36</gpml:identity>
-            <gpml:revision>GPlates-5a564d1d-6a71-4e59-8ae9-d28c0f176b1d</gpml:revision>
-            <gml:name>Hotspot Island</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionPlateId>
-                <gpml:ConstantValue>
-                    <gpml:value>50</gpml:value>
-                    <gml:description></gml:description>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:reconstructionPlateId>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">49.990000000000002</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
-            <gpml:outlineOf>
-                <gpml:ConstantValue>
-                    <gpml:value>
-                        <gml:Polygon>
-                            <gml:exterior>
-                                <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-18.626432686284659 70.257184262367019 -18.647563606594833 70.390738508884525 -18.658079720230731 70.509320766802404 -18.741205288012399 70.608651409677094 -18.811477961984572 70.537657200836449 -18.829354724567615 70.500439572377999 -18.790405548735546 70.300286395317613 -18.67850519045292 70.218142295121694 -18.626432686284659 70.257184262367019 </gml:posList>
+                                    <gml:posList gml:dimension="2">-21.044571326137369 72.453741734349535 -20.908692760605629 72.590555839268816 -20.701355545202556 72.6674496005636 -20.629149721396093 72.480511223214293 -20.439699079195975 72.381804661741057 -20.407382334335384 72.214262260638137 -20.451880293972966 72.072417073264475 -20.818946926997022 71.839063036553441 -21.040088988876526 71.977831204251061 -21.118817129649415 72.195118723922619 -21.044571326137369 72.453741734349535 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -1683,7 +1587,7 @@
     <gml:featureMember>
         <gpml:ContinentalCrust>
             <gpml:identity>GPlates-04e2bfec-8719-43d8-ba4d-0b09c39ce403</gpml:identity>
-            <gpml:revision>GPlates-9eb2ab3c-ef6a-42c1-8ab3-c78b72835cc5</gpml:revision>
+            <gpml:revision>GPlates-8e6ce8ac-81a1-4aed-9b1f-6b3c8817206b</gpml:revision>
             <gml:name>Hotspot Island</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -1717,7 +1621,7 @@
                         <gml:Polygon>
                             <gml:exterior>
                                 <gml:LinearRing>
-                                    <gml:posList gml:dimension="2">-21.863632697067331 72.778339438743657 -21.68478139587252 72.711405153648911 -21.577198281870306 72.720889950739277 -21.526163194151614 72.807200638872857 -21.449150001521602 72.999771838317059 -21.397311531497373 73.064877790123305 -21.375506760864564 73.149905094776429 -21.381401766756174 73.181278299300743 -21.401490719317991 73.196351834391294 -21.863632697067331 72.778339438743657 </gml:posList>
+                                    <gml:posList gml:dimension="2">-22.204778969910038 72.428502522340224 -21.919004441787493 72.388941362705623 -21.686215214046936 72.447233914375303 -21.360247389031379 72.421599713754176 -21.106414287066077 72.503275345868147 -21.043683757059075 72.703348571349622 -21.128822311423214 72.839171141866203 -21.105328160007211 73.159003148126871 -21.084568891196422 73.334762054501923 -21.09278274004761 73.51612141747475 -22.204778969910038 72.428502522340224 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
@@ -15555,8 +15459,8 @@
     <gml:featureMember>
         <gpml:ContinentalCrust>
             <gpml:identity>GPlates-43eaacfb-63be-45d8-957a-a0248b001caf</gpml:identity>
-            <gpml:revision>GPlates-1ee9bda6-3124-471f-ac89-a354361c09c8</gpml:revision>
-            <gml:name>Continent Nemo</gml:name>
+            <gpml:revision>GPlates-f4c141db-6336-4aac-b907-84721108afa8</gpml:revision>
+            <gml:name>Hotspot Island</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
                     <gml:begin>
@@ -15603,8 +15507,8 @@
     <gml:featureMember>
         <gpml:ContinentalCrust>
             <gpml:identity>GPlates-704e9c40-eecc-42d9-94a1-04fab836d2a2</gpml:identity>
-            <gpml:revision>GPlates-ca36e72c-fc99-457d-8a85-829bb91eb92f</gpml:revision>
-            <gml:name>Continent Nemo</gml:name>
+            <gpml:revision>GPlates-5abc1914-52b4-44b8-b334-236eff996d3a</gpml:revision>
+            <gml:name>Hotspot Island</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
                     <gml:begin>
@@ -15651,8 +15555,8 @@
     <gml:featureMember>
         <gpml:ContinentalCrust>
             <gpml:identity>GPlates-a6cae2bc-021d-470f-bc83-691b609d2e75</gpml:identity>
-            <gpml:revision>GPlates-b9de8534-7c3e-400f-ba8e-3ddcde35078b</gpml:revision>
-            <gml:name>Continent Nemo</gml:name>
+            <gpml:revision>GPlates-aed870bd-04a6-438a-a71e-b5303ca03754</gpml:revision>
+            <gml:name>Hotspot Island</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
                     <gml:begin>
@@ -15686,6 +15590,102 @@
                             <gml:exterior>
                                 <gml:LinearRing>
                                     <gml:posList gml:dimension="2">-13.01400934564051 54.812988114613539 -12.881957828400061 55.020926216916024 -13.131163190973098 55.128577915850173 -13.221511385710427 55.080622210048865 -13.303348235537397 54.982782165855419 -13.296577870334774 54.831361394042524 -13.256492766719136 54.76910046224279 -13.197599031919902 54.708759351681294 -13.01400934564051 54.812988114613539 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:ContinentalCrust>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalCrust>
+            <gpml:identity>GPlates-b545e519-56d0-45e8-9866-bda199759c9b</gpml:identity>
+            <gpml:revision>GPlates-0fac0e32-b32e-4d8c-9cea-147eb98ad60e</gpml:revision>
+            <gml:name>Hotspot Island</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">49.990000000000002</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>50</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">-18.084530188628563 70.071417441042954 -18.161375719013726 69.742469730543661 -18.311290242446532 69.714156182927937 -18.5015325656024 69.701735252477761 -18.661532210936667 69.774408249147129 -18.849392016812942 69.888205826957488 -18.987378817438938 70.102210102646026 -19.147339516907582 70.447353353328552 -19.074922384989588 70.688255856446929 -18.853358630847502 71.001799450690527 -18.642147056978214 71.036170020046271 -18.413368292806776 70.913807063607706 -18.188583047558371 70.819542669210378 -18.04021099273848 70.676038322104361 -18.00427658665981 70.471580140796107 -18.084530188628563 70.071417441042954 </gml:posList>
+                                </gml:LinearRing>
+                            </gml:exterior>
+                        </gml:Polygon>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Polygon</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:outlineOf>
+        </gpml:ContinentalCrust>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:ContinentalCrust>
+            <gpml:identity>GPlates-b5cf59da-f848-406f-9eca-19041e9c2258</gpml:identity>
+            <gpml:revision>GPlates-b806e310-4473-4b11-8f68-7bf7f62f5c77</gpml:revision>
+            <gml:name>Hotspot Island</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">49.990000000000002</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>50</gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:outlineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Polygon>
+                            <gml:exterior>
+                                <gml:LinearRing>
+                                    <gml:posList gml:dimension="2">-20.44856639455497 71.692845089526131 -20.186488251631083 71.829922976380018 -20.109747700948027 71.94909839902148 -19.949361956720956 71.930177882020175 -19.944800923457883 71.898671292904908 -19.949767875617567 71.807539790503213 -20.048259622523769 71.671890407285474 -20.149585860104416 71.638957791571045 -20.398937927342459 71.581353133341054 -20.515987870196387 71.386948925171467 -20.640565025450783 71.450283846570059 -20.612376658961239 71.568435120505313 -20.590289982275511 71.708189629366217 -20.566690874756187 71.796314110402946 -20.470412778193868 71.676272967063269 -20.44856639455497 71.692845089526131 </gml:posList>
                                 </gml:LinearRing>
                             </gml:exterior>
                         </gml:Polygon>
